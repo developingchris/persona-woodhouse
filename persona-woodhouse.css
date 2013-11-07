@@ -1,3 +1,5 @@
 body {
-background-color:66aa00 !important;
+background-color:#66aa00 !important;
 }
+
+#main-table {background-image:inherit !important;}
